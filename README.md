@@ -17,3 +17,5 @@ As you will see on the date in the screenshot, this picture was taken at 12:07 P
 Once the user inputs a task and hits the save button, the task is saved in the local storage. See screenshot of the local storage below where the task for 12:00 PM is stored.
 
 <img src=".\Assets\imgs\03.PNG">
+
+<a href="https://cjose26.github.io/Scheduler/">Application</a>
